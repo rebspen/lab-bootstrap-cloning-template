@@ -1,3 +1,4 @@
+
 .card-body {
   transition: opacity 0.25s ease-in-out;
 }
@@ -13,3 +14,9 @@
 .card:hover .card-img-top {
   transform: scale(1.05);
 }
+
+nav div img {
+  margin-top: 3em;
+}
+
+
